@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdna.artstation.com/p/users/covers/002/696/776/default/498b33235984f953f6f58f1823985084.jpg?1655859082&quot" height="200"/>
+  <img src="https://cdna.artstation.com/p/users/covers/002/696/776/default/498b33235984f953f6f58f1823985084.jpg?1655859082&quot" height="250"/>
 </p>
 <br>
 
