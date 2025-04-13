@@ -34,16 +34,6 @@ Soy desarrollador con enfoque en **Flask, Python y MySQL**. Me gusta crear cosas
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tuusuario&label=Profile%20views&color=0e75b6&style=flat" alt="tuusuario" />
 </p>
