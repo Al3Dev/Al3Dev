@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-image-link.com/banner.jpg" alt="banner" width="100%" style="border-radius: 15px;" />
+  <img src="[https://your-image-link.com/banner.jpg](https://media.licdn.com/dms/image/v2/D4E16AQFZfXVHZ1tmZg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1712294852533?e=1750291200&v=beta&t=ALJOhpVBybfC6kptiSi69Dqr28YBw7jKs--TymHBlqs)" alt="banner" width="100%" style="border-radius: 15px;" />
 </p>
 
 <h1 align="center">¡Hola! Soy [Al3Dev] 👋</h1>
