@@ -2,25 +2,25 @@
   <img src="https://media.licdn.com/dms/image/v2/D4E16AQFZfXVHZ1tmZg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1712294852533?e=1750291200&v=beta&t=ALJOhpVBybfC6kptiSi69Dqr28YBw7jKs--TymHBlqs" alt="banner" width="100%" style="border-radius: 15px;" />
 </p>
 
-<h1 align="center">¡Hola! Soy [Al3Dev] 👋</h1>
+<h1 align="center">Hi there! I'm [Al3Dev] 👋</h1>
 
 <p align="center">
-  Desarrollador Web | Amante del código limpio | Apasionado por la IA
+  Web Developer | Clean Code Enthusiast | AI Passionate
 </p>
 
 ---
 
-## 🧠 Sobre mí
+## 🧠 About Me
 
-Soy desarrollador con enfoque en **Flask, Python y MySQL**. Me gusta crear cosas útiles, limpias y bien pensadas. Disfruto trabajar en proyectos que mezclan backend sólido con un toque creativo. Siempre estoy aprendiendo y retándome con nuevas tecnologías.
+I'm a developer focused on **Flask, Python, and MySQL**. I enjoy building useful, clean, and well-thought-out things. I love working on projects that combine solid backend with a creative touch. Always learning, always challenging myself with new technologies.
 
-- 🌱 Actualmente aprendiendo: API de Gemini, Docker
-- ⚙️ Stack: Flask, Python, MySQL, JavaScript, HTML/CSS
-- 🤓 Interés especial en: IA, automatización, productividad dev
+- 🌱 Currently learning: Gemini API, Docker  
+- ⚙️ Stack: Flask, Python, MySQL, JavaScript, HTML/CSS  
+- 🤓 Special interest in: AI, automation, developer productivity
 
 ---
 
-## 🛠️ Tecnologías que uso
+## 🛠️ Technologies I Use
 
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
