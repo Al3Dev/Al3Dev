@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Al3Dev/Al3Dev/blob/main/Sin%20ti%CC%81tulo%202.jpg?raw=true" alt="banner" width="100%" style="border-radius: 15px;" />
+  <img src="https://github.com/Al3Dev/Al3Dev/blob/main/IMG_Al3Dev.jpg?raw=true" alt="banner" width="100%" style="border-radius: 15px;" />
 </p>
 
 <h1 align="center">Hi there! I'm [Al3Dev] 👋</h1>
@@ -8,7 +8,7 @@
   Web Developer | Clean Code Enthusiast | AI Passionate
 </p>
 
-  <img src="https://github.com/Al3Dev/Al3Dev/blob/main/2.jpg?raw=true" alt="banner" width="100%" style="border-radius: 15px;" />
+  <img src="https://github.com/Al3Dev/Al3Dev/blob/main/IMG_OMG.jpg?raw=true" alt="banner" width="100%" style="border-radius: 15px;" />
 
 ---
 
