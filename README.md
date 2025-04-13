@@ -39,3 +39,18 @@ I'm a developer focused on **Flask, Python, and MySQL**. I enjoy building useful
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tuusuario&label=Profile%20views&color=0e75b6&style=flat" alt="tuusuario" />
 </p>
+
+## 🚀 Projects
+
+<p align="center">
+  <a href="https://tuproyecto1.com" target="_blank">
+    <img src="https://via.placeholder.com/200x120.png?text=Proyecto+1" alt="Proyecto 1" style="border-radius: 10px; margin: 10px;" />
+  </a>
+  <a href="https://tuproyecto2.com" target="_blank">
+    <img src="https://via.placeholder.com/200x120.png?text=Proyecto+2" alt="Proyecto 2" style="border-radius: 10px; margin: 10px;" />
+  </a>
+  <a href="https://github.com/tuusuario/proyecto3" target="_blank">
+    <img src="https://via.placeholder.com/200x120.png?text=Proyecto+3" alt="Proyecto 3" style="border-radius: 10px; margin: 10px;" />
+  </a>
+</p>
+
