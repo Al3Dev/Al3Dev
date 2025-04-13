@@ -8,6 +8,8 @@
   Web Developer | Clean Code Enthusiast | AI Passionate
 </p>
 
+  <img src="https://github.com/Al3Dev/Al3Dev/blob/main/2.jpg?raw=true" alt="banner" width="100%" style="border-radius: 15px;" />
+
 ---
 
 ## 🧠 About Me
