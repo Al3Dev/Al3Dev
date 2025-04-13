@@ -1,27 +1,18 @@
-# [Tu Nombre Completo]
+# 👋 ¡Hola! Soy [Al3Dev]
 
-**Desarrollador(a) [Tu Especialidad] | [Tecnologías Clave]**
+## 🧑‍💻 Sobre mí
+Desarrollador Full Stack con experiencia en [tecnologías clave]. Apasionado por crear soluciones eficientes y escalables.
 
-## 🧑‍💼 Sobre mí
+## 🛠️ Tecnologías y Herramientas
+- Lenguajes: [Lista de lenguajes]
+- Frameworks: [Lista de frameworks]
+- Bases de datos: [Lista de bases de datos]
+- Herramientas: [Lista de herramientas]
 
-Soy un(a) desarrollador(a) con experiencia en [áreas de especialización]. Me apasiona [temas de interés] y busco constantemente mejorar mis habilidades y contribuir a proyectos significativos.
+## 📈 Estadísticas de GitHub
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=default)
 
-## 🛠 Habilidades Técnicas
-
-- **Lenguajes**: [Lista de lenguajes]
-- **Frameworks**: [Lista de frameworks]
-- **Herramientas y Tecnologías**: [Lista de herramientas]
-
-## 📂 Proyectos Destacados
-
-- [Nombre del Proyecto](enlace al repositorio): Breve descripción del proyecto y tecnologías utilizadas.
-
-## 📊 Estadísticas de GitHub
-
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=default)
-
-## 📫 Contacto
-
+## 📫 Cómo contactarme
 - Correo: [tuemail@example.com]
-- LinkedIn: [enlace a tu perfil]
-- Portafolio: [enlace a tu sitio web]
+- LinkedIn: [Enlace a tu perfil]
+- Portafolio: [Enlace a tu sitio web]
