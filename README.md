@@ -36,13 +36,13 @@ I'm a developer focused on **Flask, Python, and MySQL**. I enjoy building useful
 ### 🔧 Tools & Platforms
 [![My Skills](https://skillicons.dev/icons?i=vscode,github,npm,discord,bots)](https://skillicons.dev)
 
-<a href="https://www.linkedin.com/in/YOUR_USERNAME">
+<a href="https://www.linkedin.com/in/alejandro-rodr%C3%ADguez-lopez-4a041518a/">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<a href="https://www.instagram.com/YOUR_USERNAME">
+<a href="https://www.instagram.com/allerodi/">
   <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:rodriguezl.alejandr@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
