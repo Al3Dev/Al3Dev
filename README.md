@@ -24,9 +24,27 @@ I'm a developer focused on **Flask, Python, and MySQL**. I enjoy building useful
 
 ## 🛠️ Technologies I Use
 
-<p align="center">
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-</p>
+### 💻 Languages & Logic
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,py,js,ts,html,css,wasm)](https://skillicons.dev)
+
+### 🚀 Frameworks, Libraries & Engines
+[![My Skills](https://skillicons.dev/icons?i=react,flask,sklearn,godot,arduino,robloxstudio)](https://skillicons.dev)
+
+### 🎨 Design & Creative
+[![My Skills](https://skillicons.dev/icons?i=figma,ai,blender,pr,ableton)](https://skillicons.dev)
+
+### 🔧 Tools & Platforms
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,npm,discord,bots)](https://skillicons.dev)
+
+<a href="https://www.linkedin.com/in/YOUR_USERNAME">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://www.instagram.com/YOUR_USERNAME">
+  <img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+<a href="mailto:your-email@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 
 ## 🚀 Projects
 
